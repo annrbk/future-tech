@@ -1,0 +1,23 @@
+{
+  "name": "future-tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-watch": "sass --watch ." 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annrbk/future-tech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annrbk/future-tech/issues"
+  },
+  "homepage": "https://github.com/annrbk/future-tech#readme",
+  "devDependencies": {
+    "sass": "^1.80.6"
+  }
+}
