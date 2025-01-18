@@ -1,4 +1,4 @@
-@use "../helpers/" as *;
+@use "../helpers" as *;
 
 .icon {
   display: inline-flex;
@@ -30,6 +30,12 @@
   &--yellow-eye {
     &::after {
       background-image: url("../../icons/eye_yellow.svg");
+    }
+  }
+
+  &--gray-arrow-down {
+    &::after {
+      background-image: url("../../icons/arrow-down_gray.svg");
     }
   }
 }
